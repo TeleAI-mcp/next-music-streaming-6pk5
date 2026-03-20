@@ -1,2 +1,3 @@
-# next-music-streaming-6pk5
-Automated issue comment bot repository
+# Next Music Streaming 6Pk5
+
+Automated issue comment bot repository.
